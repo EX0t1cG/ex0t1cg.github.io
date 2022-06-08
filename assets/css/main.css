@@ -3147,6 +3147,10 @@ input, select, textarea {
 			transform: scale(1.0) rotate(0deg);
 			opacity: 1;
 		}
+	iframe {
+		display: block;
+  		margin: auto;
+	}
 
 /* Main */
 
