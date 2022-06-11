@@ -3159,6 +3159,12 @@ input, select, textarea {
 		margin-right: auto;
 	}
 
+	.profilepicture {
+		float: right;
+		padding: 10px;
+		margin-right: 5em;
+	}
+
 /* Main */
 
 	#main {
